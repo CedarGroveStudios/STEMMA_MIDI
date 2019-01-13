@@ -10,6 +10,8 @@ The module has two ways to connect UART signals: a STEMMA-compatible 4-pin JST c
 
 The Type B (3.5mm TRS) MIDI input is an optically-isolated Type B 3.5mm TRS connection. The Type B (3.5mm TRS) MIDI output is buffered. On-board receive (RX) and transmit (TX) LEDs indicate incoming and outgoing MIDI signals. Interface module power is supplied by the STEMMA's 3.3-volt power pin.
 
+The OSH Park STEMMA MIDI module project page: https://oshpark.com/shared_projects/qya9nIlp
+
 The STEMMA MIDI interface was tested with CircuitPython version 3.1.1 and version 4.0.0 Alpha_5. Example test code for the Trellis M4 is provided in the repository.
 
 ![Image of Module](https://github.com/CedarGroveStudios/STEMMA_MIDI/blob/master/STEMMA%20MIDI%20v00%204w.jpg)
