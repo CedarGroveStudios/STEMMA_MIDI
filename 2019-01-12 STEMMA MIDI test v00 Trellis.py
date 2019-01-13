@@ -1,8 +1,9 @@
 # 2019-01-12 STEMMA MIDI test v00 Trellis.py
 # Simple MIDI send/receive test using UART
 # via a custom "classic" MIDI interface
+# Cedar Grove Studios 2019
 #
-# based on John Park's Classic MIDI Example code
+# inspired by John Park's Classic MIDI Synth Control example code
 
 import adafruit_trellism4
 
