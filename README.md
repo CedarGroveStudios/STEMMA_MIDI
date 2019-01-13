@@ -12,5 +12,4 @@ The Type B (3.5mm TRS) MIDI input is an optically-isolated Type B 3.5mm TRS conn
 
 The STEMMA MIDI interface was tested with CircuitPython version 3.1.1 and version 4.0.0 Alpha_5. Example test code for the Trellis M4 is provided in the repository.
 
-![Image of Module](https://github.com/CedarGroveStudios/STEMMA_MIDI/blob/master/2018-12-23%20STEMMA%20DIN-MIDI%20glamour%204w.png
-)
+![Image of Module](https://github.com/CedarGroveStudios/STEMMA_MIDI/blob/master/STEMMA%20MIDI%20v00%204w.jpg)
