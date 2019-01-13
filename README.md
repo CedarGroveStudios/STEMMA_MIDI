@@ -1,7 +1,8 @@
 # STEMMA_MIDI
 ### _A classic MIDI interface module compatible with Adafruit's STEMMA UART mode_
 
-![Image of Module](STEMMA_MIDI/2018-12-23 STEMMA DIN-MIDI glamour 4w.png)
+![Image of Module](https://github.com/CedarGroveStudios/STEMMA_MIDI/blob/master/2018-12-23%20STEMMA%20DIN-MIDI%20glamour%204w.png
+)
 
 The STEMMA MIDI interface is a self-powered, one-quarter protoboard-sized module for use with Adafruit STEMMA-compatible products. The interface converts incoming and outgoing classic MIDI current-loop input and output for the STEMMA's 3.3-volt logic. This interface requires that the STEMMA interface be placed into UART mode with a fixed baud rate of 31,250. 
 
