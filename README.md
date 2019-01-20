@@ -1,8 +1,6 @@
 # STEMMA_MIDI
 ### _A classic MIDI interface module compatible with the UART mode of Adafruit's STEMMA_
 
-# NOTE: Version 2.0 is in progress. Stay tuned for an update to this repository.
-
 ![Image of Module](https://github.com/CedarGroveStudios/STEMMA_MIDI/blob/master/2018-12-23%20STEMMA%20DIN-MIDI%20glamour%204w.png
 )
 
@@ -13,5 +11,7 @@ The module has two ways to connect UART signals: a STEMMA-compatible 4-pin JST c
 The Type B (3.5mm TRS) MIDI input is an optically-isolated connection. The Type B (3.5mm TRS) MIDI output is buffered. On-board receive (RX) and transmit (TX) LEDs indicate incoming and outgoing MIDI signals. Interface module power is supplied by the STEMMA's 3.3-volt power pin.
 
 The STEMMA MIDI interface was tested with CircuitPython version 3.1.1 and version 4.0.0 Alpha_5. Example test code for the Trellis M4 is provided in the repository.
+
+OSH Park project: https://oshpark.com/shared_projects/VKPsNNjk
 
 ![Image of Module](https://github.com/CedarGroveStudios/STEMMA_MIDI/blob/master/STEMMA%20MIDI%20v00%204w.jpg)
