@@ -1,6 +1,8 @@
 # STEMMA_MIDI
 ### _A classic MIDI interface module compatible with the UART mode of Adafruit's STEMMA_
 
+# NOTE: Version 2.0 is in progress. Stay tuned for an update to this repository.
+
 ![Image of Module](https://github.com/CedarGroveStudios/STEMMA_MIDI/blob/master/2018-12-23%20STEMMA%20DIN-MIDI%20glamour%204w.png
 )
 
